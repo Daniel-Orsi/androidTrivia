@@ -1,9 +1,9 @@
 This is an exercise in the UDACITY course, where the following concepts apply:
-Fragments
-ActionBar
-NavigationDrawerMenu
-OverFlowMenu
-NavigationGraph
+Fragments,
+ActionBar,
+NavigationDrawerMenu,
+OverFlowMenu,
+NavigationGraph,
 DataBinding
 
 ## Android Trivia 
